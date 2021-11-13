@@ -17,3 +17,7 @@ main
 This is what Bob & Carol did on Bob’s computer when working on the first feature
 
 Maybe its groundhog day.
+
+This is what Ted and Alice did on Ted's computer! 
+
+We all rock so hard :).
