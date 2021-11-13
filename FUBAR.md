@@ -2,7 +2,7 @@ This is what Bob & Carol did on Bob’s computer when working on the first featu
 
 
 
-Here comes a merge.
+
 
 This is what Ted and Alice did on Ted's computer, and we are just starting to get our flow going. 
 
@@ -18,8 +18,15 @@ This is what Ted and Alice did on Ted's computer!
 
 We all rock so hard :).
 
-third round 
+# round3  
 
 This is what Bob and Carol did on Carol's computer when working on the third feature. 
 
+
 This is Tiara as Bob working with David as Carol on Bob's computer when working on the third feature.
+
+
+# round 3 continued
+
+Some stuff cedric felt like typing as Ted
+
