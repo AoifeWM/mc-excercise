@@ -35,3 +35,5 @@ Some stuff cedric felt like typing as Ted
 This is Tiara as Carol working with David as Bob on Carol's computer.
 
 This is Aoife as Ted working with Cedric as Alice on Ted's computer. this change shouldn't cause a merge conflict hopefully lmao
+
+This is the fourth time we are doing this, and I am still all over the place.
