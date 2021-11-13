@@ -21,3 +21,8 @@ We all rock so hard :).
 third round 
 
 This is what Bob and Carol did on Carol's computer when working on the third feature. 
+
+
+#round 3
+
+Some stuff cedric felt like typing as Ted
